@@ -1,0 +1,5 @@
+#!/bin/bash
+TRX_SOURCE_PATH='src/*'
+DEST_PATH='C:\'
+
+cp $TRX_SOURCE_PATH $DEST_PATH
